@@ -1,0 +1,18 @@
+body{background-color:blue;}
+           button{
+            height: 100px;
+            width: 100px;
+            background-color:rgb(216, 34, 95);
+            font-size:large;
+            border-radius:50% ;
+           }
+           #result{
+            height:100px;
+            width:415px;
+            border-radius: 30%;
+           }
+           .container{
+            border: solid 5px;
+            width: 100px;
+            height: 500px;
+           }
